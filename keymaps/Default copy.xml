@@ -1,0 +1,42 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
+  <action id="Arrangement.Rule.Edit" />
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
+  <action id="Git.Reword.Commit">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="GotoNextError" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="ShelvedChanges.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
+  </action>
+  <action id="ToggleBookmark" />
+  <action id="XDebugger.EditWatch" />
+  <action id="XDebugger.SetValue" />
+</keymap>
